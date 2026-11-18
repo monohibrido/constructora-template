@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1600 1067" role="img" aria-label="Radier industrial terminado dentro de una bodega de distribución" font-family="Inter, Arial, Helvetica, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d2d29"/><stop offset="1" stop-color="#1c1c1a"/></linearGradient>
+<pattern id="p" width="89" height="89" patternUnits="userSpaceOnUse"><path d="M 89 0 L 0 0 0 89" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/></pattern>
+</defs>
+<rect width="1600" height="1067" fill="url(#g)"/>
+<rect width="1600" height="1067" fill="url(#p)"/>
+<path d="M0 874.9399999999999 L448.00000000000006 554.84 L720 725.5600000000001 L1248 320.09999999999997 L1600 512.16 L1600 1067 L0 1067 Z" fill="#b5622b" fill-opacity="0.16"/>
+<rect x="26.675" y="26.675" width="1546.65" height="1013.65" fill="none" stroke="#b5622b" stroke-opacity="0.7" stroke-width="2" stroke-dasharray="14 10"/>
+<text x="800" y="362.78" font-size="26" fill="#d9894f" font-weight="700" text-anchor="middle">IMAGEN DE REFERENCIA</text>
+<text x="800" y="417.38" font-size="53" fill="#ffffff" font-weight="700" text-anchor="middle">1600 × 1067 px  ·  formato .webp</text>
+<text x="800" y="518.0799999999999" font-size="32" fill="#e8e2d6" font-weight="500" text-anchor="middle">Servicio · Obras industriales y bodegas · galería</text>
+<text x="800" y="588.4799999999999" font-size="26" fill="#9fd0ff" font-weight="500" text-anchor="middle"></text>
+<text x="800" y="627.4799999999999" font-size="26" fill="#9fd0ff" font-weight="500" text-anchor="middle">public/images/servicios/construccion-de-obras-industriales-y-bodegas/radier-industrial-en-bodega-de-distribucion-construccion-de-obras-industriales-y-bodegas.webp</text>
+<text x="800" y="682.4799999999999" font-size="26" fill="#bdb8ac" font-weight="400" text-anchor="middle">"Radier industrial terminado dentro de una bodega de distribución"</text>
+</svg>

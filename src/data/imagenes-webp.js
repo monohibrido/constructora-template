@@ -1,0 +1,27 @@
+// ARCHIVO GENERADO AUTOMÁTICAMENTE por scripts/manifiesto-imagenes.mjs (no editar a mano)
+export const WEBP_DISPONIBLES = [
+  "inicio/constructora-obras-industriales-y-edificios-en-chile-portada",
+  "nosotros/empresa-constructora-chilena-equipo-en-terreno",
+  "portadas/contacto-y-cotizacion-de-obras-de-construccion",
+  "portadas/proceso-de-construccion-de-obras-paso-a-paso",
+  "portadas/proyectos-de-construccion-industrial-comercial-y-habitacional",
+  "portadas/servicios-de-construccion-para-empresas-e-inversionistas",
+  "proceso/control-de-calidad-y-entrega-de-obra-terminada",
+  "proceso/ejecucion-de-obra-con-prevencion-de-riesgos",
+  "proceso/estudio-del-proyecto-revision-de-planos-en-terreno",
+  "proceso/presupuesto-y-planificacion-de-obra-carta-gantt",
+  "proyectos/centro-comercial-y-strip-center-antofagasta/vista-general-centro-comercial-y-strip-center-antofagasta",
+  "proyectos/centro-de-distribucion-logistico-quilicura/vista-general-centro-de-distribucion-logistico-quilicura",
+  "proyectos/clinica-y-centro-medico-temuco/vista-general-clinica-y-centro-medico-temuco",
+  "proyectos/colegio-y-centro-educacional-concepcion/vista-general-colegio-y-centro-educacional-concepcion",
+  "proyectos/condominio-de-departamentos-vina-del-mar/vista-general-condominio-de-departamentos-vina-del-mar",
+  "proyectos/edificio-de-oficinas-corporativas-las-condes/vista-general-edificio-de-oficinas-corporativas-las-condes",
+  "proyectos/planta-de-procesamiento-agroindustrial-rancagua/vista-general-planta-de-procesamiento-agroindustrial-rancagua",
+  "proyectos/urbanizacion-y-obras-viales-parque-industrial-lampa/vista-general-urbanizacion-y-obras-viales-parque-industrial-lampa",
+  "servicios/construccion-de-edificios-comerciales-y-oficinas/portada-construccion-de-edificios-comerciales-y-oficinas",
+  "servicios/construccion-de-edificios-habitacionales-y-condominios/portada-construccion-de-edificios-habitacionales-y-condominios",
+  "servicios/construccion-de-edificios-institucionales-colegios-y-salud/portada-construccion-de-edificios-institucionales-colegios-y-salud",
+  "servicios/construccion-de-obras-industriales-y-bodegas/portada-construccion-de-obras-industriales-y-bodegas",
+  "servicios/obras-civiles-urbanizacion-y-movimiento-de-tierras/portada-obras-civiles-urbanizacion-y-movimiento-de-tierras",
+  "servicios/remodelaciones-ampliaciones-y-obras-de-mejoramiento/portada-remodelaciones-ampliaciones-y-obras-de-mejoramiento"
+]

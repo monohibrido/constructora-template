@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-label="Equipo de ingeniería y construcción coordinando una obra con planos en terreno" font-family="Inter, Arial, Helvetica, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d2d29"/><stop offset="1" stop-color="#1c1c1a"/></linearGradient>
+<pattern id="p" width="83" height="83" patternUnits="userSpaceOnUse"><path d="M 83 0 L 0 0 0 83" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/></pattern>
+</defs>
+<rect width="1400" height="1000" fill="url(#g)"/>
+<rect width="1400" height="1000" fill="url(#p)"/>
+<path d="M0 820 L392.00000000000006 520 L630 680 L1092 300 L1400 480 L1400 1000 L0 1000 Z" fill="#b5622b" fill-opacity="0.16"/>
+<rect x="25" y="25" width="1350" height="950" fill="none" stroke="#b5622b" stroke-opacity="0.7" stroke-width="2" stroke-dasharray="14 10"/>
+<text x="700" y="340" font-size="24" fill="#d9894f" font-weight="700" text-anchor="middle">IMAGEN DE REFERENCIA</text>
+<text x="700" y="390.4" font-size="50" fill="#ffffff" font-weight="700" text-anchor="middle">1400 × 1000 px  ·  formato .webp</text>
+<text x="700" y="485.4" font-size="30" fill="#e8e2d6" font-weight="500" text-anchor="middle">Inicio · sección "Por qué elegirnos"</text>
+<text x="700" y="551.4" font-size="24" fill="#9fd0ff" font-weight="500" text-anchor="middle">public/images/inicio/equipo-de-ingenieria-y-construccion-coordinando-una-obra.webp</text>
+<text x="700" y="602.4" font-size="24" fill="#bdb8ac" font-weight="400" text-anchor="middle">"Equipo de ingeniería y construcción coordinando una obra con planos en terreno"</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-label="Obra gruesa de hormigón armado de un edificio en construcción" font-family="Inter, Arial, Helvetica, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d2d29"/><stop offset="1" stop-color="#1c1c1a"/></linearGradient>
+<pattern id="p" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M 100 0 L 0 0 0 100" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="1500" fill="url(#g)"/>
+<rect width="1200" height="1500" fill="url(#p)"/>
+<path d="M0 1230 L336.00000000000006 780 L540 1020.0000000000001 L936 450 L1200 720 L1200 1500 L0 1500 Z" fill="#b5622b" fill-opacity="0.16"/>
+<rect x="30" y="30" width="1140" height="1440" fill="none" stroke="#b5622b" stroke-opacity="0.7" stroke-width="2" stroke-dasharray="14 10"/>
+<text x="600" y="558" font-size="29" fill="#d9894f" font-weight="700" text-anchor="middle">IMAGEN DE REFERENCIA</text>
+<text x="600" y="618.9" font-size="60" fill="#ffffff" font-weight="700" text-anchor="middle">1200 × 1500 px  ·  formato .webp</text>
+<text x="600" y="732.9" font-size="36" fill="#e8e2d6" font-weight="500" text-anchor="middle">Inicio · galería "Obras en ejecución" (vertical)</text>
+<text x="600" y="812.0999999999999" font-size="29" fill="#9fd0ff" font-weight="500" text-anchor="middle"></text>
+<text x="600" y="855.5999999999999" font-size="29" fill="#9fd0ff" font-weight="500" text-anchor="middle">public/images/inicio/obra-gruesa-de-hormigon-armado-en-edificio.webp</text>
+<text x="600" y="917.0999999999999" font-size="29" fill="#bdb8ac" font-weight="400" text-anchor="middle">"Obra gruesa de hormigón armado de un edificio en</text>
+<text x="600" y="960.5999999999999" font-size="29" fill="#bdb8ac" font-weight="400" text-anchor="middle">construcción"</text>
+</svg>

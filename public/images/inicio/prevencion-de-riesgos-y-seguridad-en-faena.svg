@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Trabajadores con casco y arnés cumpliendo medidas de seguridad en faena" font-family="Inter, Arial, Helvetica, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d2d29"/><stop offset="1" stop-color="#1c1c1a"/></linearGradient>
+<pattern id="p" width="75" height="75" patternUnits="userSpaceOnUse"><path d="M 75 0 L 0 0 0 75" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="900" fill="url(#g)"/>
+<rect width="1200" height="900" fill="url(#p)"/>
+<path d="M0 738 L336.00000000000006 468 L540 612 L936 270 L1200 432 L1200 900 L0 900 Z" fill="#b5622b" fill-opacity="0.16"/>
+<rect x="22.5" y="22.5" width="1155" height="855" fill="none" stroke="#b5622b" stroke-opacity="0.7" stroke-width="2" stroke-dasharray="14 10"/>
+<text x="600" y="306" font-size="22" fill="#d9894f" font-weight="700" text-anchor="middle">IMAGEN DE REFERENCIA</text>
+<text x="600" y="352.2" font-size="45" fill="#ffffff" font-weight="700" text-anchor="middle">1200 × 900 px  ·  formato .webp</text>
+<text x="600" y="437.7" font-size="27" fill="#e8e2d6" font-weight="500" text-anchor="middle">Inicio · detalle constructivo 3</text>
+<text x="600" y="497.1" font-size="22" fill="#9fd0ff" font-weight="500" text-anchor="middle">public/images/inicio/prevencion-de-riesgos-y-seguridad-en-faena.webp</text>
+<text x="600" y="543.6" font-size="22" fill="#bdb8ac" font-weight="400" text-anchor="middle">"Trabajadores con casco y arnés cumpliendo medidas de seguridad en faena"</text>
+</svg>

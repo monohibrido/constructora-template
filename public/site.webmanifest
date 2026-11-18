@@ -1,0 +1,15 @@
+{
+  "name": "Constructora Cordillera",
+  "short_name": "Cordillera",
+  "description": "Constructora de obras industriales, comerciales, habitacionales e institucionales en Chile.",
+  "lang": "es-CL",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1C1C1A",
+  "theme_color": "#1C1C1A",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
